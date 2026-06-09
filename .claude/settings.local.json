@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell(Start-Process \"D:\\\\MV\\\\index.html\"; \"opened\")",
-      "Bash(node *)"
-    ]
-  }
-}
